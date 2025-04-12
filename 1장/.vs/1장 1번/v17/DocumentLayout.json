@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\\uC218\uC5C5\uC790\uB8CC\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\1\uC7A5\\1\uC7A5 1\uBC88\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1019F8C0-EFB1-4FEE-8C77-93E8590C9003}|1\uC7A5 1\uBC88\\1\uC7A5 1\uBC88.vcxproj|C:\\Users\\User\\OneDrive\\\uC218\uC5C5\uC790\uB8CC\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\1\uC7A5\\1\uC7A5 1\uBC88\\1\uC7A5 1\uBC88\\4\uBC88.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1019F8C0-EFB1-4FEE-8C77-93E8590C9003}|1\uC7A5 1\uBC88\\1\uC7A5 1\uBC88.vcxproj|solutionrelative:1\uC7A5 1\uBC88\\4\uBC88.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1019F8C0-EFB1-4FEE-8C77-93E8590C9003}|1\uC7A5 1\uBC88\\1\uC7A5 1\uBC88.vcxproj|C:\\Users\\User\\OneDrive\\\uC218\uC5C5\uC790\uB8CC\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\1\uC7A5\\1\uC7A5 1\uBC88\\1\uC7A5 1\uBC88\\3\uBC88.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1019F8C0-EFB1-4FEE-8C77-93E8590C9003}|1\uC7A5 1\uBC88\\1\uC7A5 1\uBC88.vcxproj|solutionrelative:1\uC7A5 1\uBC88\\3\uBC88.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1019F8C0-EFB1-4FEE-8C77-93E8590C9003}|1\uC7A5 1\uBC88\\1\uC7A5 1\uBC88.vcxproj|C:\\Users\\User\\OneDrive\\\uC218\uC5C5\uC790\uB8CC\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\1\uC7A5\\1\uC7A5 1\uBC88\\1\uC7A5 1\uBC88\\2\uBC88.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1019F8C0-EFB1-4FEE-8C77-93E8590C9003}|1\uC7A5 1\uBC88\\1\uC7A5 1\uBC88.vcxproj|solutionrelative:1\uC7A5 1\uBC88\\2\uBC88.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1019F8C0-EFB1-4FEE-8C77-93E8590C9003}|1\uC7A5 1\uBC88\\1\uC7A5 1\uBC88.vcxproj|C:\\Users\\User\\OneDrive\\\uC218\uC5C5\uC790\uB8CC\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\1\uC7A5\\1\uC7A5 1\uBC88\\1\uC7A5 1\uBC88\\1\uBC88.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1019F8C0-EFB1-4FEE-8C77-93E8590C9003}|1\uC7A5 1\uBC88\\1\uC7A5 1\uBC88.vcxproj|solutionrelative:1\uC7A5 1\uBC88\\1\uBC88.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4\uBC88.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\uC218\uC5C5\uC790\uB8CC\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\1\uC7A5\\1\uC7A5 1\uBC88\\1\uC7A5 1\uBC88\\4\uBC88.cpp",
+              "RelativeDocumentMoniker": "1\uC7A5 1\uBC88\\4\uBC88.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\uC218\uC5C5\uC790\uB8CC\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\1\uC7A5\\1\uC7A5 1\uBC88\\1\uC7A5 1\uBC88\\4\uBC88.cpp",
+              "RelativeToolTip": "1\uC7A5 1\uBC88\\4\uBC88.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T12:35:51.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3\uBC88.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\uC218\uC5C5\uC790\uB8CC\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\1\uC7A5\\1\uC7A5 1\uBC88\\1\uC7A5 1\uBC88\\3\uBC88.cpp",
+              "RelativeDocumentMoniker": "1\uC7A5 1\uBC88\\3\uBC88.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\uC218\uC5C5\uC790\uB8CC\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\1\uC7A5\\1\uC7A5 1\uBC88\\1\uC7A5 1\uBC88\\3\uBC88.cpp",
+              "RelativeToolTip": "1\uC7A5 1\uBC88\\3\uBC88.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T12:32:26.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2\uBC88.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\uC218\uC5C5\uC790\uB8CC\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\1\uC7A5\\1\uC7A5 1\uBC88\\1\uC7A5 1\uBC88\\2\uBC88.cpp",
+              "RelativeDocumentMoniker": "1\uC7A5 1\uBC88\\2\uBC88.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\uC218\uC5C5\uC790\uB8CC\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\1\uC7A5\\1\uC7A5 1\uBC88\\1\uC7A5 1\uBC88\\2\uBC88.cpp",
+              "RelativeToolTip": "1\uC7A5 1\uBC88\\2\uBC88.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T12:25:54.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "1\uBC88.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\uC218\uC5C5\uC790\uB8CC\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\1\uC7A5\\1\uC7A5 1\uBC88\\1\uC7A5 1\uBC88\\1\uBC88.cpp",
+              "RelativeDocumentMoniker": "1\uC7A5 1\uBC88\\1\uBC88.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\uC218\uC5C5\uC790\uB8CC\\\uAC1D\uCCB4\uD504\uB85C\uADF8\uB798\uBC0D\\\uACFC\uC81C\\1\uC7A5\\1\uC7A5 1\uBC88\\1\uC7A5 1\uBC88\\1\uBC88.cpp",
+              "RelativeToolTip": "1\uC7A5 1\uBC88\\1\uBC88.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T12:23:53.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
